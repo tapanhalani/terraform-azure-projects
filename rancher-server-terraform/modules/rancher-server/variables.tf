@@ -1,0 +1,19 @@
+variable "RANCHER_SERVER_MACHINE_SIZE" {
+  
+}
+
+variable "RESOURCE_GROUP_TEST_NAME" {
+  
+}
+
+# variable "RANCHER_SERVER_PUBLIC_IP_ID" {
+
+# }
+
+variable "SUBNET_TEST_ID" {
+
+}
+
+variable "STORAGE_ACCOUNT_PRIMARY_BLOB_ENDPOINT" {
+
+}

@@ -1,0 +1,19 @@
+variable RANCHER_HOST_COUNT {
+  
+}
+
+variable RESOURCE_GROUP_TEST_NAME {
+
+}
+
+variable SUBNET_TEST_ID {
+
+}
+
+variable CUSTOM_SCRIPT_SUCCESS_CONFIRMATION {
+
+}
+
+variable RANCHER_SERVER_IP {
+  
+}
